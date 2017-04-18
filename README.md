@@ -7,3 +7,14 @@ https://github.com/nimojs/webpack-book
 
 如何使用Git上传项目代码到github
 http://1ke.co/course/194
+
+淘宝提供了 npm 镜像供我们使用。
+
+安装 cnpm
+
+在命令行输入：
+
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+使用 cnpm 安装模块
+
+cnpm install [name]
